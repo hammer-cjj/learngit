@@ -1,3 +1,3 @@
 author
 comment
-set exit=1
+set exit=2
