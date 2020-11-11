@@ -1,3 +1,3 @@
 author
-comment
+comment=1
 set exit=1
